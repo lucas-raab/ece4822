@@ -1,0 +1,80 @@
+10
+Average time: 7.49414e-07 seconds
+60
+Average time: 0.000172554 seconds
+110
+Average time: 0.00109 seconds
+160
+Average time: 0.00341354 seconds
+210
+Average time: 0.00903634 seconds
+260
+Average time: 0.0171268 seconds
+310
+Average time: 0.0273342 seconds
+360
+Average time: 0.0442426 seconds
+410
+Average time: 0.066746 seconds
+460
+Average time: 0.0935101 seconds
+510
+Average time: 0.253821 seconds
+560
+Average time: 0.146855 seconds
+610
+Average time: 0.190266 seconds
+660
+Average time: 0.24246 seconds
+710
+Average time: 0.304314 seconds
+760
+Average time: 0.368174 seconds
+810
+Average time: 0.452202 seconds
+860
+Average time: 0.544412 seconds
+910
+Average time: 0.651457 seconds
+960
+Average time: 0.762562 seconds
+1010
+Average time: 0.894064 seconds
+1060
+Average time: 1.05124 seconds
+1110
+Average time: 1.18855 seconds
+1160
+Average time: 1.42747 seconds
+1210
+Average time: 1.64607 seconds
+1260
+Average time: 1.78934 seconds
+1310
+Average time: 2.04538 seconds
+1360
+Average time: 2.29649 seconds
+1410
+Average time: 2.64505 seconds
+1460
+Average time: 2.97982 seconds
+1510
+Average time: 3.35617 seconds
+1560
+Average time: 4.15805 seconds
+1610
+Average time: 4.89141 seconds
+1660
+/var/spool/slurmd/job130226/slurm_script: line 3: 1533663 Bus error               (core dumped) ./hw_03.exe $N $N 10000
+1710
+Average time: 5.01399 seconds
+1760
+Average time: 7.38363 seconds
+1810
+Average time: 7.70132 seconds
+1860
+Average time: 8.38606 seconds
+1910
+Average time: 8.52801 seconds
+1960
+slurmstepd: error: *** JOB 130226 ON nedc_130 CANCELLED AT 2024-09-21T10:27:24 ***
