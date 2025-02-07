@@ -11,7 +11,7 @@ A major focus was on matrix multiplication, with my benchmarks available [here](
 # Final Project
 The final project involved a five-stage program applying signal processing techniques to pathology slides. The class competed for the fastest processing time.
 
-The leaderboard is available here. I placed first with a time of 22.97 seconds.
+The leaderboard is available [here](https://isip.piconepress.com/courses/temple/ece_4822/resources/benchmarks/image_processing/2024_01_fall/). I placed first with a time of 22.97 seconds.
 
 ### Design Process
 The system featured four NVIDIA A40 GPUs, 180 GB of VRAM, 256 GB of RAM, and two AMD EPYC 7413 24-core processors. To optimize performance, I focused on efficient hardware utilization.
